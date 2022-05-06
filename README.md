@@ -1,6 +1,15 @@
 # node-typescript
 
-This system allows you to save your tasks
+This system allows you to save your tasks using a simple DDD (Domain Design Driven) methodology
+
+## to setup
+npm install
+
+## to run locally
+npm run dev
+
+## to run tests
+npm run test
 
 ## fields   
 - title
