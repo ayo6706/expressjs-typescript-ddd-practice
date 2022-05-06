@@ -1,6 +1,6 @@
 # node-typescript
 
-This system allows you to save your tasks using a simple DDD (Domain Design Driven) methodology
+This system allows you to save your tasks using a simple DDD (Domain Design Driven) methodology with node.js, typescript and expressjs
 
 ## to setup
 npm install
